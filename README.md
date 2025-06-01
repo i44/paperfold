@@ -1,2 +1,2 @@
 # paperfold
-minimalistic 2g graphics javascript library
+minimalistic 2d graphics library using javascript and css
